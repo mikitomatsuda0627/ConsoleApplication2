@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello visualstdio!\n";
+    std::cout << "新規ブランチをこの行に追加\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
