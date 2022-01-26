@@ -5,8 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello !\n";
-    std::cout << "新規ブランチをこの行に追加\n";
+    std::cout << "Hello school!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
